@@ -1120,7 +1120,7 @@ spec:
 
  A recurring override is initially active between `startTime` and `endTime`, and then it repeatedly gets activated after a certain period of time denoted by `frequency`.
 
-`frequecy` can take one of the following values:
+`frequency` can take one of the following values:
 
 - `Daily`
 - `Weekly`
